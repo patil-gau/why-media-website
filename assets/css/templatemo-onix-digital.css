@@ -193,7 +193,7 @@ body {
 }
 
 .section-heading h2 span {
-  color: #ff695f;
+  color: #fa3628;
   font-weight: 700;
   opacity: 1;
   text-transform: capitalize;
@@ -203,7 +203,7 @@ body {
   font-size: 30px;
   text-transform: uppercase;
   font-weight: 700;
-  color: #ff695f;
+  color: #cb1c09;
   opacity: 0.15;
 }
 
@@ -233,12 +233,12 @@ body {
 }
 
 .main-blue-button-hover a:hover {
-  background-color: #ff695f;
+  background-color: #cb1c09;
 }
 
 .main-red-button a {
   display: inline-block;
-  background-color: #ff695f;
+  background-color: #cb1c09;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -299,11 +299,11 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #ff685f!important;
+  color: #cb1c09!important;
 }
 
 .background-header .nav li a.active {
-  color: #ff685f!important;
+  color: #cb1c09!important;
 }
 
 .header-area {
@@ -414,7 +414,7 @@ header
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #ff685f!important;
+  color: #cb1c09!important;
   opacity: 1;
 }
 
@@ -476,7 +476,7 @@ header
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
   background: #fff;
-  color: #ff685f!important;
+  color: #cb1c09!important;
   padding-left: 25px;
 }
 
@@ -649,7 +649,7 @@ header
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #ff685f!important;
+    color: #cb1c09!important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
@@ -710,7 +710,7 @@ header
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #ff685f!important;
+    color: #cb1c09!important;
   }
   .header-area .main-nav .nav li.submenu ul {
     position: relative;
@@ -1080,7 +1080,7 @@ Services Style
 .our-services .owl-dots .owl-dot {
   width: 6px;
   height: 6px;
-  background-color: #ff695f;
+  background-color: #cb1c09;
   border-radius: 50%;
   opacity: 0.3;
   margin: 0px 5px;
@@ -1134,7 +1134,7 @@ About
 
 .about-us .fact-item .count-title {
   font-size: 15px;
-  color: #ff695f;
+  color: #cb1c09;
 }
 
 .about-us .fact-item p {
@@ -1257,7 +1257,7 @@ Portfolio
 .owl-portfolio .owl-nav .owl-prev span:after {
   width: 46px;
   height: 46px;
-  background-color: #ff695f;
+  background-color: #cb1c09;
   display: inline-block;
   text-align: center;
   line-height: 46px;
@@ -1281,7 +1281,7 @@ Portfolio
 .owl-portfolio .owl-nav .owl-next span:after {
   width: 46px;
   height: 46px;
-  background-color: #ff695f;
+  background-color: #cb1c09;
   display: inline-block;
   text-align: center;
   line-height: 46px;
@@ -1301,7 +1301,7 @@ Portfolio
 .owl-portfolio .owl-dots .owl-dot {
   width: 6px;
   height: 6px;
-  background-color: #ff695f;
+  background-color: #cb1c09;
   border-radius: 50%;
   opacity: 0.3;
   margin: 0px 5px;
@@ -1375,7 +1375,7 @@ Pricing
 }
 
 .pricing-tables .item em {
-  color: #ff695f;
+  color: #cb1c09;
   font-size: 15px;
   display: block;
   margin-top: 25px;
@@ -1385,7 +1385,7 @@ Pricing
 
 .pricing-tables .item span {
   font-size: 44px;
-  color: #ff695f;
+  color: #cb1c09;
   font-weight: 700;
   display: block;
   margin-top: -5px;
@@ -1505,7 +1505,7 @@ Subscribe
 }
 
 .subscribe .inner-content form button:hover {
-  background-color: #ff695f;
+  background-color: #cb1c09;
 }
 
 
@@ -1614,8 +1614,8 @@ Video
 }
 
 .our-videos .nacc .thumb .overlay-effect {
-  background: #ff695f;
-  background: linear-gradient(105deg, rgba(255,104,95,1) 0%, rgba(255,144,104,1) 100%);
+  background: #cb1c09;
+  background: linear-gradient(105deg, rgba(203, 28, 9, 1) 0%, rgba(203, 28, 9, 1) 100%);
   display: inline-block;
   position: absolute;
   left: 0;
@@ -1644,8 +1644,8 @@ Video
 }
 
 .our-videos .menu .thumb .inner-content {
-  background: #ff695f;
-  background: linear-gradient(105deg, #ff695f 0%, #ff695f 100%);
+  background: #cb1c09;
+  background: linear-gradient(105deg, #cb1c09 0%, #cb1c09 100%);
   border-top-left-radius: 23px;
   border-bottom-right-radius: 23px;
   position: absolute;
@@ -1743,7 +1743,7 @@ contact
 }
 
 .contact-us .info span a {
-  color: #ff685f;
+  color: #cb1c09;
   font-size: 14px;
   font-weight: 400;
   line-height: 25px;
@@ -1786,7 +1786,7 @@ form#contact input::placeholder {
 
 form#contact button {
   display: inline-block;
-  background-color: #ff695f;
+  background-color: #cb1c09;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -1860,7 +1860,7 @@ footer .about ul li a {
 }
 
 footer .about ul li a:hover {
-  background-color: #ff695f;
+  background-color: #cb1c09;
 }
 
 footer .footer-item ul li {
@@ -1879,7 +1879,7 @@ footer .footer-item ul li a {
 }
 
 footer .footer-item ul li a:hover {
-  color: #ff695f;
+  color: #cb1c09;
 }
 
 footer .footer-item p {
@@ -1929,7 +1929,7 @@ footer .copyright p {
 }
 
 footer .copyright p a {
-  color: #ff695f;
+  color: #cb1c09;
 }
 
 /* 
@@ -2034,7 +2034,7 @@ responsive
   }
   .subscribe .inner-content form button {
     width: 100%;
-    background-color: #ff695f;
+    background-color: #cb1c09;
     margin-top: 30px;
   }
   .our-videos ul.nacc li {
